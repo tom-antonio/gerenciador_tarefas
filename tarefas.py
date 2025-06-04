@@ -44,7 +44,7 @@ while True:
         else:
             print("Nenhuma tarefa cadastrada.")
     elif opcao == "0":
-        print("Saindo do programa.")
+        print("Saindo do programa.Volte sempre!")
         break
     else:
         print("Opção inválida, tente novamente.")
